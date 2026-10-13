@@ -23,15 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcdalakis&show_icons=true&theme=tokyonight&count_private=true" alt="Michael's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcdalakis&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="175" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-dalakis-878463368)
