@@ -1,7 +1,7 @@
 # Hi, I'm Michael Dalakis 👋
 
 **Electrical & Computer Engineering Student @ University of Patras 🏛️**  
-*Passionate about Systems, Embedded & Home Automation, C/C++, Python, and Aviation Tech.*
+*Passionate about Systems, Embedded & Home Automation, Web Development, Python, and Aviation Tech.*
 
 ---
 
@@ -11,16 +11,15 @@
 * 👥 **Student Involvement:** Active in **IEEE** & **EUROAVIA** student teams
 * 🔭 **Currently Building:** 
   * Custom **Home Automation** environment using **Home Assistant, Proxmox VE, Zigbee & mmWave presence sensors**
-  * Systems & utility scripts in **C, C++, and Python**
-* 🎯 **Focus Areas:** Embedded Systems, Network Routing/VPN Optimization, AI/Software Tooling, and Aviation Engineering
-* 💬 **Ask me about:** C/C++, Home Assistant, Linux/Networking, or PC building
+  * Systems & utility scripts in Python**
+* 🎯 **Focus Areas:** Embedded Systems, Network Routing/VPN Optimization, and Aviation Engineering
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages & Environments
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,linux,bash,git,vscode,githubactions,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,sql,tsx,linux,bash,git,vscode,githubactions,docker)](https://skillicons.dev)
 
 ---
 
@@ -35,7 +34,7 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-dalakis-878463368)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 <!--
 **mcdalakis/mcdalakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
