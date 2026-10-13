@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages & Environments
-[![My Skills](https://skillicons.dev/icons?i=py,js,sql,tsx,linux,bash,git,vscode,githubactions,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,linux,bash,git,vscode,githubactions,docker)](https://skillicons.dev)
 
 ---
 
