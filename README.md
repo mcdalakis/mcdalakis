@@ -12,7 +12,7 @@
 * 🔭 **Currently Building:** 
   * Custom **Home Automation** environment using **Home Assistant, Proxmox VE, Zigbee & mmWave presence sensors**
   * Systems & utility scripts in Python**
-* 🎯 **Focus Areas:** Embedded Systems, Network Routing/VPN Optimization, and Aviation Engineering
+* 🎯 **Focus Areas:** Python development, scripting & automation, web development, software tooling, and Aviation Engineering
 
 ---
 
@@ -35,7 +35,6 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-dalakis-878463368)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 <!--
 **mcdalakis/mcdalakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
