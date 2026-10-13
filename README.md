@@ -11,7 +11,7 @@
 * 👥 **Student Involvement:** Active in **IEEE** & **EUROAVIA** student teams
 * 🔭 **Currently Building:** 
   * Custom **Home Automation** environment using **Home Assistant, Proxmox VE, Zigbee & mmWave presence sensors**
-  * Systems & utility scripts in Python**
+  * Systems & utility scripts in Python
 * 🎯 **Focus Areas:** Python development, scripting & automation, web development, software tooling, and Aviation Engineering
 
 ---
